@@ -8,19 +8,19 @@ const Footer: React.FC = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
             <p className="text-sm text-muted-foreground">
-              © 2025 FiscalEye AI Watch. All rights reserved.
+              © 2025 Robinhood AI Tax Monitor. Fighting for tax fairness and transparency.
             </p>
           </div>
           
           <div className="flex space-x-8">
-            <a href="#" className="text-sm text-muted-foreground hover:text-fiscal-600 transition-colors">
+            <a href="#" className="text-sm text-muted-foreground hover:text-green-600 transition-colors">
               Terms of Service
             </a>
-            <a href="#" className="text-sm text-muted-foreground hover:text-fiscal-600 transition-colors">
+            <a href="#" className="text-sm text-muted-foreground hover:text-green-600 transition-colors">
               Privacy Policy
             </a>
-            <a href="#" className="text-sm text-muted-foreground hover:text-fiscal-600 transition-colors">
-              Help Center
+            <a href="#" className="text-sm text-muted-foreground hover:text-green-600 transition-colors">
+              Report Tax Fraud
             </a>
           </div>
         </div>

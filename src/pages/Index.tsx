@@ -15,9 +15,9 @@ const Index = () => {
       
       <main className="flex-1 container mx-auto px-4 py-6">
         <div className="mb-6">
-          <h1 className="text-3xl font-bold mb-1">Tax Monitoring Dashboard</h1>
+          <h1 className="text-3xl font-bold mb-1">Robinhood AI Tax Monitor</h1>
           <p className="text-muted-foreground">
-            AI-powered insights and analytics for the income tax system.
+            AI-powered fairness and transparency for the income tax system.
           </p>
         </div>
         
